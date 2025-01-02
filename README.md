@@ -15,7 +15,7 @@
 <img width="1464" alt="image" src="https://github.com/user-attachments/assets/4f67297e-9687-4760-9139-712617bb736a" />
 <img width="1462" alt="image" src="https://github.com/user-attachments/assets/45ccff9d-23d9-4026-923a-11389b95eb92" />
 <img width="1465" alt="image" src="https://github.com/user-attachments/assets/664be421-274e-4cba-8072-eba48206a4c2" />
-## contact : telegram -> https://t.me/Coding_Gurl    or  grp : https://t.me/Coders_Community_By_Kb
+
 Objective
 ## As a company, we aim to maintain strong professional relationships by keeping accurate records of our interactions with other organizations. The objective of this assignment is to develop a React-based Calendar Application that enables us to efficiently track communication with companies, ensuring follow-ups are timely and consistent. This tool will provide a centralized platform to log past interactions, plan future communications, and manage the frequency of engagement based on predefined schedules.
 The application will include:
